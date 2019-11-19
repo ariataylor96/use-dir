@@ -1,4 +1,4 @@
-```
+```python
 import use_dir from use_dir
 
 with use_dir('./bin'):
